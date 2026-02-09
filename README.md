@@ -1,79 +1,69 @@
-# Hi, I'm Goushik Raja R 👋  
-### Backend Developer | Node.js | REST APIs | JWT | Databases
+# Hi, I'm Goushik Raja R 👋
 
-Backend Developer with hands-on experience in building secure, scalable, and maintainable server-side applications.  
+Backend Developer with hands-on experience in building scalable, secure, and maintainable server-side applications.  
 Currently working at **Tata Consultancy Services (TCS)** in a backend-focused role.
 
 ---
 
 ## 👨‍💻 About Me
 
-- Backend Developer specializing in **Node.js & REST API development**
-- Experience in **JWT authentication and role-based access control**
-- Strong understanding of **MVC architecture & backend system design**
-- Comfortable working with **production-level backend workflows**
-- Passionate about clean code, scalability, and backend security
+- Backend Developer specializing in **Node.js and REST API development**
+- Experience with **JWT authentication, role-based access control, and database-driven systems**
+- Strong understanding of **MVC architecture and backend system design**
+- Passionate about writing clean, modular, and scalable backend code
+- Actively building real-world backend projects
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-- JavaScript  
-- TypeScript  
-- SQL  
+**Languages**
+- JavaScript, TypeScript, SQL
 
-### ⚙️ Backend & APIs
-- Node.js  
-- Express.js  
-- RESTful API Design  
-- Authentication & Authorization (JWT)  
+**Backend & APIs**
+- Node.js, Express.js
+- RESTful API Design
+- Authentication & Authorization (JWT)
 
-### 🗄 Databases
-- MongoDB  
-- PostgreSQL  
-- MySQL  
+**Databases**
+- MongoDB
+- PostgreSQL
+- MySQL
 
-### 🧰 Tools
-- Git  
-- GitHub  
-- Postman  
+**Tools**
+- Git, GitHub
+- Postman
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 PhysioOne – Medical Appointment Booking Platform
+**Tech:** Node.js, MongoDB, Git, GitHub  
 
-- Developed backend services for a healthcare appointment scheduling platform
-- Designed RESTful APIs following **MVC architecture**
-- Implemented secure data validation and structured error handling
-- Created MongoDB schemas for users, appointments, and booking workflows
+- Developed backend services for appointment scheduling
+- Designed REST APIs using MVC architecture
+- Implemented secure data handling and validation
+- Structured MongoDB schemas for efficient data operations
 
 ---
 
 ### 🔹 Enterprise Employee Information & Access Management System
+**Tech:** Node.js, Express.js, MongoDB, JWT  
 
-- Architected a secure backend system to manage employee records
-- Implemented **JWT-based authentication and role-based access control**
+- Built a secure backend system to manage employee records
+- Implemented JWT-based authentication and role-based access control
 - Developed CRUD APIs with permission-based data access
-- Ensured data integrity using middleware validation
-- Designed a modular and scalable backend architecture
-
----
-
-## 📊 GitHub Stats
-
-![Goushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goushik-Raja-R&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Goushik-Raja-R&layout=compact)
+- Designed scalable and modular backend architecture
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/goushikraja10  
-- 📧 Email: goushikraja.in@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/goushikraja10
+- GitHub: https://github.com/Goushik-Raja-R
+- Email: goushikraja.in@gmail.com
 
 ---
 
-⭐ *Open to Backend Developer opportunities and continuous learning.*
+⭐ *Always open to backend development opportunities and learning new technologies.*
