@@ -19,48 +19,46 @@ Currently working at **Tata Consultancy Services (TCS)** in a backend-focused ro
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql)
+- JavaScript  
+- TypeScript  
+- SQL  
 
 ### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens)
+- Node.js  
+- Express.js  
+- RESTful API Design  
+- Authentication & Authorization (JWT)  
 
 ### 🗄 Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
+- MongoDB  
+- PostgreSQL  
+- MySQL  
 
 ### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=postman)
+- Git  
+- GitHub  
+- Postman  
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 PhysioOne – Medical Appointment Booking Platform
-**Tech:** Node.js, MongoDB, Git, GitHub  
-🔗 *Repo:* https://github.com/Goushik-Raja-R/physioone-backend
 
-- Built backend services for healthcare appointment scheduling
-- Designed REST APIs following **MVC architecture**
-- Implemented secure data validation and error handling
-- Structured MongoDB schemas for booking workflows
+- Developed backend services for a healthcare appointment scheduling platform
+- Designed RESTful APIs following **MVC architecture**
+- Implemented secure data validation and structured error handling
+- Created MongoDB schemas for users, appointments, and booking workflows
 
 ---
 
 ### 🔹 Enterprise Employee Information & Access Management System
-**Tech:** Node.js, Express.js, MongoDB, JWT  
-🔗 *Repo:* https://github.com/Goushik-Raja-R/employee-access-management
 
-- Architected a secure backend system for employee data management
-- Implemented **JWT-based authentication & role-based authorization**
-- Developed CRUD APIs with hierarchical access control
-- Designed modular and scalable backend architecture
+- Architected a secure backend system to manage employee records
+- Implemented **JWT-based authentication and role-based access control**
+- Developed CRUD APIs with permission-based data access
+- Ensured data integrity using middleware validation
+- Designed a modular and scalable backend architecture
 
 ---
 
@@ -75,7 +73,6 @@ Currently working at **Tata Consultancy Services (TCS)** in a backend-focused ro
 
 - 💼 LinkedIn: https://www.linkedin.com/in/goushikraja10  
 - 📧 Email: goushikraja.in@gmail.com  
-- 🧑‍💻 GitHub: https://github.com/Goushik-Raja-R  
 
 ---
 
