@@ -1,77 +1,49 @@
-# Hi, I'm Goushik Raja 👋
+# Hey there! 👋
 
-**Backend-focused Developer | TypeScript | Node.js | Express.js | PostgreSQL**
+I'm Goushik Raja, a Backend Engineer focused on building reliable and
+well-structured backend systems.
 
-I build backend systems with a focus on API development, authentication,
-authorization, database design, and production-oriented deployment.
+## 🚀 What I'm Building
 
-## 🛠️ Tech Stack
+🔐 **Authentication Service**
 
-**Languages & Runtime**
-- TypeScript
-- JavaScript
-- Node.js
+A production-style authentication system where I'm exploring
+authentication, authorization, API security, database persistence,
+containerization, reverse proxying, cloud deployment, and CI/CD.
 
-**Backend**
-- Express.js
-- REST APIs
-- JWT Authentication
-- Role-Based Access Control (RBAC)
+📚 **Backend Engineering Notes**
 
-**Database**
-- PostgreSQL
-- SQL
+A structured collection of my backend engineering learning,
+covering concepts from HTTP and authentication to REST API design,
+middleware, application architecture, and databases.
 
-**DevOps & Deployment**
-- Docker
-- Nginx
-- AWS EC2
-- Git & GitHub
+## 🎯 What I'm Focused On
 
-## 🚀 Featured Project
+- Building real backend systems
+- Understanding backend architecture
+- Designing and developing REST APIs
+- Working with databases and persistence
+- Authentication and authorization
+- Deploying backend applications
+- Improving my backend engineering fundamentals
 
-### 🔐 Authentication Service
+## 🧠 My Approach
 
-A production-style backend authentication service built with TypeScript,
-Node.js, Express.js, and PostgreSQL.
+```text
+Learn → Understand → Build → Debug → Deploy → Document
+```
 
-Key areas:
+I believe the best way to learn backend engineering is by building
+systems, solving problems, and understanding why things work.
 
-- JWT authentication
-- Refresh token management
-- Refresh token rotation
-- Role-Based Access Control
-- Rate limiting
-- PostgreSQL persistence
-- Docker containerization
-- Nginx reverse proxy
-- AWS EC2 deployment
+## 📌 Featured Projects
 
-🔗 **[View Authentication Service](https://github.com/Goushik-Raja-R/Authentication-Service)**
+🔐 [Authentication-Service](https://github.com/Goushik-Raja-R/Authentication-Service)
 
-## 📚 Currently Building
+📚 [Backend-Engineering-Notes](https://github.com/Goushik-Raja-R/Backend-Engineering-Notes)
 
-### Backend Engineering Notes
+## 🤝 Connect With Me
 
-A structured collection of backend engineering concepts, practical
-learning notes, and implementation-focused knowledge covering areas such
-as Node.js, TypeScript, Express.js, PostgreSQL, authentication, and
-backend architecture.
+💼 [LinkedIn](https://www.linkedin.com/in/goushikraja10/)
 
-🔗 **[View Backend Engineering Notes](https://github.com/Goushik-Raja-R/Backend-Engineering-Notes)**
-
-## 🎯 Current Focus
-
-- Backend engineering
-- REST API design
-- Authentication & authorization
-- PostgreSQL and database design
-- Docker and cloud deployment
-- Backend architecture
-- CI/CD
-- System design fundamentals
-
-## 📫 Connect With Me
-
-- LinkedIn: [Goushik Raja](https://www.linkedin.com/in/goushikraja10/)
-- GitHub: [Goushik-Raja-R](https://github.com/Goushik-Raja-R)
+🐙 [GitHub](https://github.com/Goushik-Raja-R)
