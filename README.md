@@ -1,49 +1,109 @@
-# Hey there! 👋
+<div align="center">
 
-I'm Goushik Raja, a Backend Engineer focused on building reliable and
-well-structured backend systems.
+# 👋 HEY! I'M
 
-## 🚀 What I'm Building
+# GOUSHIK RAJA
 
-🔐 **Authentication Service**
+### BACKEND ENGINEER
+### BACKEND SYSTEMS ENTHUSIAST 🚀
 
-A production-style authentication system where I'm exploring
-authentication, authorization, API security, database persistence,
-containerization, reverse proxying, cloud deployment, and CI/CD.
+</div>
 
-📚 **Backend Engineering Notes**
+---
 
-A structured collection of my backend engineering learning,
-covering concepts from HTTP and authentication to REST API design,
-middleware, application architecture, and databases.
+## 👋 Hi, I'm Goushik Raja
 
-## 🎯 What I'm Focused On
+I'm a **Backend Engineer** focused on building backend systems,
+understanding how they work, and turning what I learn into practical
+projects.
 
-- Building real backend systems
-- Understanding backend architecture
-- Designing and developing REST APIs
-- Working with databases and persistence
-- Authentication and authorization
-- Deploying backend applications
-- Improving my backend engineering fundamentals
+- 🔐 Currently building and improving an **Authentication Service**
+- 📚 Maintaining my **Backend Engineering Notes**
+- 🏗️ Interested in backend architecture and system development
+- 🚀 Continuously improving through practical implementation
 
-## 🧠 My Approach
+---
+
+## 🔨 What I'm Building
+
+### 🔐 Authentication Service
+
+A production-style authentication backend built around:
+
+- Authentication & Authorization
+- JWT & Refresh Tokens
+- RBAC
+- Rate Limiting
+- PostgreSQL persistence
+- Docker
+- Nginx
+- AWS EC2
+- CI/CD
+
+👉 **[View Authentication-Service](https://github.com/Goushik-Raja-R/Authentication-Service)**
+
+### 📚 Backend Engineering Notes
+
+A structured collection of my backend engineering learning and
+practical understanding.
+
+Topics include:
+
+- Backend fundamentals
+- HTTP
+- Authentication & Authorization
+- Validation & Transformation
+- Controllers / Services / Repositories
+- Middleware
+- REST API Design
+- PostgreSQL
+
+👉 **[View Backend-Engineering-Notes](https://github.com/Goushik-Raja-R/Backend-Engineering-Notes)**
+
+---
+
+## 🎯 Current Focus
 
 ```text
-Learn → Understand → Build → Debug → Deploy → Document
+Backend Engineering
+       ↓
+Backend Systems
+       ↓
+REST API Design
+       ↓
+Authentication & Authorization
+       ↓
+Databases
+       ↓
+Deployment & Infrastructure
 ```
 
-I believe the best way to learn backend engineering is by building
-systems, solving problems, and understanding why things work.
+My approach:
 
-## 📌 Featured Projects
+**Learn → Understand → Build → Debug → Deploy → Document**
 
-🔐 [Authentication-Service](https://github.com/Goushik-Raja-R/Authentication-Service)
+---
 
-📚 [Backend-Engineering-Notes](https://github.com/Goushik-Raja-R/Backend-Engineering-Notes)
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,postgres,docker,nginx,aws,git,github" />
+</p>
+
+---
 
 ## 🤝 Connect With Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/goushikraja10/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/goushikraja10/">
+    <img src="https://img.shields.io/badge/LinkedIn-Goushik%20Raja-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-🐙 [GitHub](https://github.com/Goushik-Raja-R)
+---
+
+<div align="center">
+
+### 🚀 Building. Learning. Improving.
+
+</div>
