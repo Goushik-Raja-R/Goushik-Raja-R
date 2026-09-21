@@ -17,30 +17,24 @@ I'm a **Backend Engineer** focused on building backend systems,
 understanding how they work, and turning what I learn into practical
 projects.
 
-- 🔐 Currently building and improving an **Authentication Service**
+- 🌊 Currently building **Overflow — a backend order processing system**
 - 📚 Maintaining my **Backend Engineering Notes**
-- 🏗️ Interested in backend architecture and system development
+- 🏗️ Interested in backend architecture and system design
 - 🚀 Continuously improving through practical implementation
 
 ---
 
 ## 🔨 What I'm Building
 
-### 🔐 Authentication Service
+### 🌊 Overflow — Order Processing System
 
-A production-style authentication backend built around:
+A backend order processing system built with **Node.js, TypeScript,
+PostgreSQL, Redis, and RabbitMQ** to explore transactions, caching,
+asynchronous processing, retries, and system design.
 
-- Authentication & Authorization
-- JWT & Refresh Tokens
-- RBAC
-- Rate Limiting
-- PostgreSQL persistence
-- Docker
-- Nginx
-- AWS EC2
-- CI/CD
+**Currently working on this project.**
 
-👉 **[View Authentication-Service](https://github.com/Goushik-Raja-R/Authentication-Service)**
+👉 **[View Overflow](https://github.com/Goushik-Raja-R/OrderFlow)**
 
 ### 📚 Backend Engineering Notes
 
@@ -71,11 +65,15 @@ Backend Systems
        ↓
 REST API Design
        ↓
-Authentication & Authorization
-       ↓
 Databases
        ↓
-Deployment & Infrastructure
+Caching
+       ↓
+Asynchronous Processing
+       ↓
+Message Queues
+       ↓
+System Design
 ```
 
 My approach:
@@ -87,8 +85,30 @@ My approach:
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,postgres,docker,nginx,aws,git,github" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,postgres,redis,rabbitmq,docker,nginx,aws,git,github" />
 </p>
+
+---
+
+## 📌 Previous Project
+
+### 🔐 Authentication Service
+
+A production-style authentication backend built with TypeScript,
+Node.js, Express.js, and PostgreSQL.
+
+The project covers:
+
+- Authentication & Authorization
+- JWT & Refresh Tokens
+- RBAC
+- Rate Limiting
+- PostgreSQL persistence
+- Docker
+- Nginx
+- AWS EC2 deployment
+
+👉 **[View Authentication-Service](https://github.com/Goushik-Raja-R/Authentication-Service)**
 
 ---
 
