@@ -26,7 +26,7 @@ projects.
 
 ## 🔨 What I'm Building
 
-### 🌊 Overflow — Order Processing System
+### 🌊 Oderflow — Order Processing System
 
 A backend order processing system built with **Node.js, TypeScript,
 PostgreSQL, Redis, and RabbitMQ** to explore transactions, caching,
